@@ -1,8 +1,8 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
 ---
 
-# svelte app
+# Svelte photo gallery
+
+It is based on svelte deferred transitions example found on [https://svelte.dev/examples#deferred-transitions]
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
